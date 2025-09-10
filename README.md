@@ -1,4 +1,4 @@
-Integrated Assessment Modeling for Climate Policy
+*Integrated Assessment Modeling for Climate Policy*
 
 
 Developed a modular integrated assessment model (IAM) to evaluate climate mitigation pathways and economic impacts
